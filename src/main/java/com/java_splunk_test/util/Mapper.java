@@ -1,4 +1,4 @@
-package com.javatechie.util;
+package com.java_splunk_test.util;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

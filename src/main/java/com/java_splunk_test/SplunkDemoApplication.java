@@ -1,8 +1,8 @@
-package com.javatechie;
+package com.java_splunk_test;
 
-import com.javatechie.dto.Order;
-import com.javatechie.service.OrderService;
-import com.javatechie.util.Mapper;
+import com.java_splunk_test.dto.Order;
+import com.java_splunk_test.service.OrderService;
+import com.java_splunk_test.util.Mapper;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
